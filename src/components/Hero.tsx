@@ -39,7 +39,7 @@ function Hero({}: Props) {
               duration:1.5
           }}
       className="mt-4 md:w-1/4 ">
-      <img src="https://img.freepik.com/free-vector/woman-walking-dog-park-girl-playing-with-her-pet-outside-cartoon-illustration_74855-14567.jpg?w=996&t=st=1664686302~exp=1664686902~hmac=669b1e44d1cc2443bc939fa3810051a0252d15362009e0809e2c06fb341471d1" />
+      <img alt="pawsome" src="https://img.freepik.com/free-vector/woman-walking-dog-park-girl-playing-with-her-pet-outside-cartoon-illustration_74855-14567.jpg?w=996&t=st=1664686302~exp=1664686902~hmac=669b1e44d1cc2443bc939fa3810051a0252d15362009e0809e2c06fb341471d1" />
     </motion.div>
     </div>
     <div className="w-full flex justify-center ">
