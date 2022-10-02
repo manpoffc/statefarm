@@ -1,10 +1,10 @@
 import React from 'react'
 import Typewriter from 'typewriter-effect'
 import {motion} from "framer-motion"
+
 type Props = {}
 
-function Hero({}: Props) {
-
+const Hero = (props: Props) => {
   return (
     <div className='p-2 min-h-max mb-20 mt-20 md:h-screen md:-mb-10 md:flex md:justify-center'>
     <div className="lg:w-5/6">
