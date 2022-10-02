@@ -4,7 +4,7 @@ type Props = {}
 
 const Testinomilas = (props: Props) => {
   return (
-    <div className="mb-20 min-h-max w-full p-5 md:mb-10 lg:h-screen md:mt-20">
+    <div className="mb-20 min-h-max w-full p-5 md:mb-5 lg:h-screen md:mt-20">
     <h1 className="p-2 text-center text-3xl font-semibold text-slate-700">Smiles Spread throughout the nation</h1>
     <p className="p-2 text-center font-light text-slate-700">Look what our previous family members have to say about our services.</p>
     <div className="grid grid-cols-1 gap-4 p-2 md:grid-cols-2 md:gap-10 lg:grid-cols-4">

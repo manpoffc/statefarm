@@ -4,7 +4,7 @@ type Props = {}
 
 const Pricing = (props: Props) => {
   return (
-    <div className=" w-full p-5 min-h-max lg:h-screen md:mt-40">
+    <div className=" w-full p-5 min-h-max lg:h-screen md:mt-10">
   <h1 className="p-2 text-center text-3xl font-semibold text-slate-700">Our Plans</h1>
   <p className="p-2 text-center font-light text-slate-700">We look after your little furr babies and ensure that we will give the best plans to protect your little family.</p>
   <div className="grid grid-cols-1 gap-4 p-2 md:grid-cols-3 md:gap-7">
