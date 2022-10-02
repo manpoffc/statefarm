@@ -4,7 +4,7 @@ type Props = {}
 
 const Banner = (props: Props) => {
     return (
-<div className=" w-full p-5 min-h-max md:h-screen mb-20 md:mb-0">
+<div className=" w-full p-5 min-h-max lg:h-screen">
   <h1 className=" p-2 text-center text-3xl font-semibold text-slate-700">Coverage from nose to tail</h1>
   <p className="p-2 text-center font-light text-slate-700">We look after your little furr babies and ensure that we will give the best plans to protect your little family.</p>
   <div className="grid grid-cols-1  md:grid-cols-2 lg:grid-cols-4 gap-4 p-2">
